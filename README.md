@@ -38,6 +38,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 https://www.npmjs.com/package/@angular-architects/module-federation
 https://www.angulararchitects.io/en/aktuelles/whats-new-in-angular-architects-module-federation-14-3/
+https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
 https://developer.okta.com/blog/2022/05/17/angular-microfrontend-auth
 
 
